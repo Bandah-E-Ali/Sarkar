@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:itsukichan/baileys",
+    "@whiskeysockets/baileys": "npm:wileys",
     "axios": "^1.2.5",
     "cheerio": "1.1.0",
     "child_process": "^1.0.2",
