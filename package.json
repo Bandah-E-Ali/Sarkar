@@ -29,7 +29,7 @@
     "qrcode": "latest",
     "ruhend-scraper": "9.0.1",
     "sequelize": "^6.37.7",
-    "sharp": "*",
+    "sharp": "^0.32.6",
     "sqlite3": "^5.1.6",
     "telegraf": "^4.16.3",
     "wa-sticker-formatter": "^4.4.4",
